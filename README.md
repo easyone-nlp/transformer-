@@ -1,2 +1,2 @@
-# transformer-
-기계학습과제
+# model architecture
+
